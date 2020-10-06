@@ -1,4 +1,4 @@
-# vanilla-cli-script
+# vanilla-cli-builder
 
 This package builds a simple boiler plate of a vanilla js application for you. 
 It will create a project directory with an index.html, app.js, and main.css all linked and ready to go. 
@@ -8,7 +8,7 @@ It will create a project directory with an index.html, app.js, and main.css all 
 Using npm: 
 ```$ npm i -g vanilla-cli-builder```
 
-### Usage
+## Usage
 
 Run the script in your command line with `vanilla <project-name>` .
 
