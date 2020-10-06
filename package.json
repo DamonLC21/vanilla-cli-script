@@ -1,5 +1,5 @@
 {
-    "name": "vanilla",
+    "name": "vanilla-cli-builder",
     "version": "0.0.1",
     "description": "This package creates a simple boiler plate for a vanilla js application.",
     "preferGlobal": true,
