@@ -1,0 +1,13 @@
+{
+    "name": "vanilla",
+    "version": "0.0.1",
+    "description": "This package creates a simple boiler plate for a vanilla js application.",
+    "preferGlobal": true,
+    "bin": {
+        "vanilla": "vanilla.js"
+    },
+    "author": "Damon Chivers",
+    "engines": {
+        "node": "*"
+    }
+}
